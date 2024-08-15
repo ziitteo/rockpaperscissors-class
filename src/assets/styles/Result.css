@@ -1,0 +1,17 @@
+.display-result {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.display-result.tie {
+  color: #528dcc;
+}
+
+.display-result.win {
+  color: #cc51a7;
+}
+
+.display-result.lose {
+  color: #656565;
+}
